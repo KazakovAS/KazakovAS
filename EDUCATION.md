@@ -1,4 +1,6 @@
 # Education
 
-- Kiev Polytechnic Institute
-- Metarhia free educational program
+- Московский государственный университет приборостроения и информатики
+- Российский технологический университет (МИРЭА)
+- ГБОУ ДПО Центр "Профессионал"
+- Yandex.Practicum
