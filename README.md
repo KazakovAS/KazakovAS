@@ -1,7 +1,7 @@
 <code>🎓 Company: Beta Online</code>
 <code>👷 Speciality: Frontend</code><br>
 
-<code>🧑‍💻 Languages: JavaScript, HTML, CSS</code>
+<code>🧑‍💻 Languages: JavaScript, HTML, CSS, JSON, Markdown, YAML</code>
 <code>📦 Tech stack: Vue, SCSS, Twig, Webpack, Docker, Git, Jira, Сonfluence, Figma</code>
 <code>💡 [Skills](SKILLS.md)</code>
 
