@@ -1,4 +1,4 @@
 # List of open-source contribution
 [Добавляет совет про :placeholder-shown](https://github.com/doka-guide/content/pull/2787)
 
-[Добавление уточнения про принцип работы <br>](https://github.com/doka-guide/content/pull/2512)
+[Добавление уточнения про принцип работы <code><br></code>](https://github.com/doka-guide/content/pull/2512)
