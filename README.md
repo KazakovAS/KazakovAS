@@ -1,5 +1,6 @@
 <code>🎓 Company: Beta Online</code>
 <code>👷 Speciality: Frontend</code><br>
+
 <code>🧑‍💻 Languages: JavaScript, HTML, CSS</code>
 <code>📦 Tech stack: node.js</code>
 <code>💡 [Skills](SKILLS.md)</code>
