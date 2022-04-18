@@ -7,3 +7,4 @@
 [Pokemon-Battle](https://github.com/KazakovAS/Pokemon-Battle)
 
 # Интерактив (Анимации/слайдеры/прочее)
+[Instagram-Logo-Animated](https://kazakovas.github.io/Instagram-Logo-Animated/)
