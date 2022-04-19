@@ -1,4 +1,5 @@
-<code>👷 Speciality: Frontend</code><br>
+<code>👷 Speciality: Frontend</code>
+
 Привет👋
 
 Я начинающий Frontend-разработчик, фанатею от доступности, анимаций и open-source.
