@@ -1,4 +1,3 @@
-<code>🎓 Company: Beta Online</code>
 <code>👷 Speciality: Frontend</code><br>
 
 ## :hammer: Мой стек:
