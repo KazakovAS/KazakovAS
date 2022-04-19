@@ -16,6 +16,6 @@
 <code>💬 telegram: [@kazakov_al](https://telegram.me/kazakov_al)</code>
 <code>📫 E-mail: [admin@kazakov-a.ru](mailto:admin@kazakov-a.ru)</code>
 
-### :trophy: Статистика:
+## :trophy: Статистика:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovAS&layout=compact)](https://github.com/KazakovAS/github-readme-stats)
