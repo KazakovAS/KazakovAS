@@ -3,9 +3,10 @@
 ## :hammer: Мой стек:
 <code>🧑‍💻 Languages: JavaScript, HTML, CSS, JSON, Markdown, YAML</code>
 
-<code>📦 Tech stack: Vue, SCSS, Twig, Webpack, Docker, Git, Jira, Сonfluence, Figma</code>
+<code>📦 Tech stack: Vue, SCSS, Twig, Webpack, Docker, Git</code>
 <code>💡 [Skills](SKILLS.md)</code>
 
+<code>📦 Tools: Jira, Сonfluence, Figma</code>
 
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
