@@ -1,4 +1,9 @@
 <code>👷 Speciality: Frontend</code><br>
+Привет👋
+
+Я начинающий Frontend-разработчик, фанатею от доступности, анимаций и open-source.
+При наличии свободного времени контрибьючу <a href="https://doka.guide/">doka.guide</a> и мечтаю получить футболку hacktoberfest.
+
 ---
 <code>💬 CV: [Казаков Алексей](https://hh.ru/resume/eb195dacff09d2d1da0039ed1f5a3236766f32)</code>
 <code>💬 Social: [Linkedin](https://www.linkedin.com/in/kazakov-al/)</code>
