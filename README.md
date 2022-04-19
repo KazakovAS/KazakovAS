@@ -18,4 +18,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovAS&theme=radical&layout=compact)](https://github.com/KazakovAS/github-readme-stats)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=KazakovAS&theme=dark)
+
 [![Codewarrior Stats](https://www.codewars.com/users/kazakov-al/badges/large)](https://www.codewars.com/users/kazakov-al)
