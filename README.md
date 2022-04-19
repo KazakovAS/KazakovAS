@@ -5,6 +5,8 @@
 <code>💬 telegram: [@kazakov_al](https://telegram.me/kazakov_al)</code>
 <code>📫 E-mail: [admin@kazakov-a.ru](mailto:admin@kazakov-a.ru)</code>
 
+<br>
+
 ## :hammer: Мой стек:
 <code>🧑‍💻 Languages: JavaScript, HTML, CSS, JSON, Markdown, YAML</code>
 
