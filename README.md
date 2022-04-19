@@ -12,3 +12,6 @@
 <code>💬 Social: [Linkedin](https://www.linkedin.com/in/kazakov-al/)</code>
 <code>💬 telegram: [@kazakov_al](https://telegram.me/kazakov_al)</code>
 <code>📫 E-mail: [admin@kazakov-a.ru](mailto:admin@kazakov-a.ru)</code>
+
+### :trophy: Моя статистика:
+[![Codewarrior Profile Badges](https://www.codewars.com/users/kazakov-al/badges/large)](https://www.codewars.com/users/kazakov-al)
