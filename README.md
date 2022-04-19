@@ -15,7 +15,6 @@
 
 <code>🧰 Tools: Jira, Сonfluence, Figma</code>
 
-<code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 
 ## Portfolio
