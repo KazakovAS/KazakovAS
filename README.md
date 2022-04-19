@@ -16,5 +16,5 @@
 ### :trophy: Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/kazakov-al/badges/large)](https://www.codewars.com/users/kazakov-al)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovAS)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovAS)](https://github.com/KazakovAS/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true&theme=radical)
