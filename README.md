@@ -6,7 +6,7 @@
 <code>📦 Tech stack: Vue, SCSS, Twig, Webpack, Docker, Git</code>
 <code>💡 [Skills](SKILLS.md)</code>
 
-<code>📦 Tools: Jira, Сonfluence, Figma</code>
+<code>🧰 Tools: Jira, Сonfluence, Figma</code>
 
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
