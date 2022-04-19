@@ -3,7 +3,7 @@
 ## Верстка
 [Russian-travel](https://github.com/KazakovAS/russian-travel)
 
-[How to learn](https://kazakovas.github.io/how-to-learn/)
+[How to learn](https://github.com/KazakovAS/how-to-learn)
 
 ## Javascript (Vanila)
 [Pokemon-Battle](https://github.com/KazakovAS/Pokemon-Battle)
