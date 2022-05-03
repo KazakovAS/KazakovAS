@@ -21,5 +21,5 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 
 ## :trophy: Статистика:
-![Stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovAS&layout=compact)](https://github.com/KazakovAS/github-readme-stats)
