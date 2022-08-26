@@ -13,14 +13,13 @@ Interested in working on wide projects that benefit people, ready for cooperatio
 <code>🧰 Tools: Jira, Сonfluence, Figma, Postman</code>
 
 ## :trophy: Statistics:
+![](https://komarev.com/ghpvc/?username=KazakovAS)
 [![codewars](https://www.codewars.com/users/kazakov-al/badges/micro)](https://www.codewars.com/users/kazakov-al)  
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true) -->
+![Stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovAS&layout=compact)](https://github.com/KazakovAS/github-readme-stats)
 
 ---
 <code>📑 [CV](https://career.habr.com/kazakov-al)</code>
 <code>💬 Social: [Linkedin](https://www.linkedin.com/in/kazakov-al/)</code>
 <code>💬 telegram: [@kazakov_al](https://telegram.me/kazakov_al)</code>
-<code>📫 E-mail: [admin@kazakov-a.ru](mailto:admin@kazakov-a.ru)</code>
-
-![](https://komarev.com/ghpvc/?username=KazakovAS) 
+<code>📫 E-mail: [admin@kazakov-a.ru](mailto:admin@kazakov-a.ru)</code> 
