@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Alexey!
-I am a <code>👷 Frontend developer</code>, a code reviewer at Yandex.Practice and a contributor at <a href="https://doka.guide/">doka.guide</a>
+I am a <code>👷 Frontend developer</code>, code reviewer at Yandex.Practice and contributor at <a href="https://doka.guide/">doka.guide</a>
 
 I am a fan of accessibility, animation and open source.
 
