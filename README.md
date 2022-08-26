@@ -1,9 +1,7 @@
-# Hi there 👋, my name is Alexey!
-I am a <code>👷 Frontend developer</code>, code reviewer at Yandex.Practice and contributor at <a href="https://doka.guide/">doka.guide</a>
+# Привет 👋, меня зовут Алексей!
+Я <code>👷 Frontend-разработчик</code>, код-ревьюер в Яндекс.Практикум и контрибьютор в <a href="https://doka.guide/">doka.guide</a> (<code>👀 [](CONTRIBUTION.md)</code>).
 
-I am a fan of accessibility, animation and open source (<code>👀 [My contributions](CONTRIBUTION.md)</code>).
-
-Interested in working on wide projects that benefit people, ready for cooperation😉
+Мне было бы интересно поработать над созданием дизайн-системы, доступностью и интернализацией. Готов к сотрудничеству😉
 
 ## :hammer: Technology stack:
 <code>🧑‍💻 Languages: JavaScript, HTML, CSS, JSON, Markdown, YAML</code>
