@@ -15,7 +15,7 @@ Interested in working on wide projects that benefit people, ready for cooperatio
 ## :trophy: Statistics:
 [![LeetCode user Kazakov-al](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKazakov-al&logo=leetcode&logoColor=yellow)](https://leetcode.com/Kazakov-al/)
 [![codewars](https://www.codewars.com/users/kazakov-al/badges/micro)](https://www.codewars.com/users/kazakov-al)  
-![](https://komarev.com/ghpvc/?username=KazakovAS)
+<!-- ![](https://komarev.com/ghpvc/?username=KazakovAS) -->
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovAS&layout=compact)](https://github.com/KazakovAS/github-readme-stats)
 
