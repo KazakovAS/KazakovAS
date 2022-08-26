@@ -1,14 +1,13 @@
 # Hi there 👋, my name is Alexey!
 
-Я начинающий <code>👷 Frontend-разработчик</code>, фанатею от доступности, анимаций и open-source. При наличии свободного времени контрибьючу <a href="https://doka.guide/">doka.guide</a> и планирую в этом году получить футболку hacktoberfest.
+Я начинающий <code>👷 Frontend-разработчик</code>, фанатею от доступности, анимаций и open-source. При наличии свободного времени контрибьючу <a href="https://doka.guide/">doka.guide</a>.
 
 Заинтересован поработать над большими проектами приносящими пользу людям, готов к сотрудничеству😉
 
-## :hammer: Мой стек:
+## :hammer: Technology stack:
 <code>🧑‍💻 Languages: JavaScript, HTML, CSS, JSON, Markdown, YAML</code>
 
-<code>📦 Tech stack: Vue.js, React.js, SCSS, Twig, Webpack, Docker, Git</code>
-<code>💡 [Skills](SKILLS.md)</code>
+<code>📦 Tech stack: Vue.js, React.js, SCSS, Twig, Webpack, Docker, MongoDB, Git</code>
 
 <code>🧰 Tools: Jira, Сonfluence, Figma</code>
 
