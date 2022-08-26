@@ -21,3 +21,5 @@ Interested in working on wide projects that benefit people, ready for cooperatio
 <code>💬 Social: [Linkedin](https://www.linkedin.com/in/kazakov-al/)</code>
 <code>💬 telegram: [@kazakov_al](https://telegram.me/kazakov_al)</code>
 <code>📫 E-mail: [admin@kazakov-a.ru](mailto:admin@kazakov-a.ru)</code>
+
+![](https://komarev.com/ghpvc/?username=KazakovAS) 
