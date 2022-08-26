@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Alexey!
 I am a <code>👷 Frontend developer</code>, code reviewer at Yandex.Practice and contributor at <a href="https://doka.guide/">doka.guide</a>
 
-I am a fan of accessibility, animation and open source.
+I am a fan of accessibility, animation and open source (<code>👀 [My contribution](CONTRIBUTION.md)</code>).
 
 Interested in working on wide projects that benefit people, ready for cooperation😉
 
@@ -11,8 +11,6 @@ Interested in working on wide projects that benefit people, ready for cooperatio
 <code>📦 Tech stack: Vue.js, React.js, SCSS, Twig, Webpack, Docker, MongoDB, Git</code>
 
 <code>🧰 Tools: Jira, Сonfluence, Figma, Postman</code>
-
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 
 ## :trophy: Statistics:
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true) -->
