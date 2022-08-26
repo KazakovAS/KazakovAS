@@ -13,6 +13,7 @@ Interested in working on wide projects that benefit people, ready for cooperatio
 <code>🧰 Tools: Jira, Сonfluence, Figma, Postman</code>
 
 ## :trophy: Statistics:
+[![codewars](https://www.codewars.com/users/kazakov-al/badges/micro)](https://www.codewars.com/users/kazakov-al)  
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovAS&layout=compact)](https://github.com/KazakovAS/github-readme-stats)
 
