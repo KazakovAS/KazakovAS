@@ -1,8 +1,7 @@
 # Hi there 👋, my name is Alexey!
+I am a <code>👷 Frontend developer</code> and a code reviewer at Yandex.Prasticum. I am a fan of accessibility, animation and open source. Contributor at <a href="https://doka.guide/">doka.guide</a>
 
-Я начинающий <code>👷 Frontend-разработчик</code>, фанатею от доступности, анимаций и open-source. При наличии свободного времени контрибьючу <a href="https://doka.guide/">doka.guide</a>.
-
-Заинтересован поработать над большими проектами приносящими пользу людям, готов к сотрудничеству😉
+Interested in working on wide projects that benefit people, ready for cooperation😉
 
 ## :hammer: Technology stack:
 <code>🧑‍💻 Languages: JavaScript, HTML, CSS, JSON, Markdown, YAML</code>
@@ -13,7 +12,7 @@
 
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 
-## :trophy: Статистика:
+## :trophy: Statistics:
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=KazakovAS&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovAS&layout=compact)](https://github.com/KazakovAS/github-readme-stats)
 
