@@ -9,7 +9,7 @@
 
 <code>📦 Tech stack: Vue.js, React.js, SCSS, Twig, Webpack, Docker, MongoDB, Git</code>
 
-<code>🧰 Tools: Jira, Сonfluence, Figma</code>
+<code>🧰 Tools: Jira, Сonfluence, Figma, Postman</code>
 
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 
