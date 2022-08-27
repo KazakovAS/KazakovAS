@@ -7,7 +7,7 @@
 
 Хочется поработать над созданием дизайн-системы, доступностью и интернализацией, а так же прокачать себя в написании тестов, архитектуре, ревью/наставничестве.
 
-Готов к сотрудничеству😉
+Готов к сотрудничеству 😉
 
 ## :trophy: Statistics:
 <!-- [![LeetCode user Kazakov-al](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKazakov-al&logo=leetcode&logoColor=yellow)](https://leetcode.com/Kazakov-al/) -->
