@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovAS&layout=compact)](https://github.com/KazakovAS/github-readme-stats)
 
 ---
-<code>📑 [CV](https://career.habr.com/kazakov-al)</code>
+<code>📑 [Resume](https://career.habr.com/kazakov-al)</code>
 <code>💬 Social: [Linkedin](https://www.linkedin.com/in/kazakov-al/)</code>
 <code>💬 telegram: [@kazakov_al](https://telegram.me/kazakov_al)</code>
 <code>📫 E-mail: [admin@kazakov-a.ru](mailto:admin@kazakov-a.ru)</code> 
