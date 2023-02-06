@@ -1,13 +1,11 @@
 # Hi 👋, my name is Alexey!
 I am a <code>Frontend-разработчик 👷</code>, code reviewer at Yandex.Practicum and I am also improving myself in mentorship there.
 
-Recently, I worked in hr-tech, where I helped create a product for mass vacancy closing, there I was responsible for the layout of a dynamic template, based on which our projects were built. In total, approximately 250 projects were implemented for the largest companies in Russia (Ozon, Sber, Yandex, etc.). In my free time, I contribute to open source.
+Recently, I worked in hr-tech, where I helped create a product for mass vacancy closing, there I was responsible for the layout of a dynamic template, based on which our projects were built. In total, approximately 250 projects were implemented for the largest companies in Russia (Ozon, Sber, Yandex, etc.). In my free time, I contribute to [open source](CONTRIBUTION.md).
 
 I would like to work on creating a design system, accessibility, internationalization, and CI/CD.
 
 Ready for cooperation 😉
-
-<code>[contribution to open source 👀](CONTRIBUTION.md)</code>
 
 ## :trophy: Statistics:
 <!-- [![LeetCode user Kazakov-al](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKazakov-al&logo=leetcode&logoColor=yellow)](https://leetcode.com/Kazakov-al/) -->
