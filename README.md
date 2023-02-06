@@ -1,13 +1,13 @@
-# Привет 👋, меня зовут Алексей!
-Я <code>Frontend-разработчик 👷</code>, код-ревьюер в Яндекс.Практикум и контрибьютор в <a href="https://doka.guide/">doka.guide</a>
+# Hi 👋, my name is Alexey!
+I am a <code>Frontend-разработчик 👷</code>, code reviewer at Yandex.Practicum and I am also improving myself in mentorship there.
 
-Последнее время работал в сфере hr-tech/digital-marketing, там я помогал создавать продукт для массового закрытия вакансий и отвечал за верстку динамического шаблона, на базе которого строились наши проекты. Благодаря мне было реализовано ~250 проектов для крупнейших компаний РФ (Ozon, Сбер, Яндекс и ect).
+Recently, I worked in hr-tech, where I helped create a product for mass vacancy closing, there I was responsible for the layout of a dynamic template, based on which our projects were built. In total, approximately 250 projects were implemented for the largest companies in Russia (Ozon, Sber, Yandex, etc.). In my free time, I contribute to open source.
 
-Люблю создавать качественные интерфейсы, осмысленно подходить к проверке гипотиз и Dungeon & Dragons. При наличии свободного времени вношу <code>[вклад в open source 👀](CONTRIBUTION.md)</code>.
+I would like to work on creating a design system, accessibility, internationalization, and CI/CD.
 
-Хочется поработать над созданием дизайн-системы, доступностью и интернализацией, а так же прокачать себя в написании тестов, ci/cd, архитектуре, ревью/наставничестве.
+Ready for cooperation 😉
 
-Готов к сотрудничеству 😉
+<code>[open source 👀](CONTRIBUTION.md)</code>
 
 ## :trophy: Statistics:
 <!-- [![LeetCode user Kazakov-al](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKazakov-al&logo=leetcode&logoColor=yellow)](https://leetcode.com/Kazakov-al/) -->
@@ -20,4 +20,4 @@
 <code>📑 [Resume](https://career.habr.com/kazakov-al)</code>
 <code>💬 Social: [Linkedin](https://www.linkedin.com/in/kazakov-al/)</code>
 <code>💬 telegram: [@kazakov_al](https://telegram.me/kazakov_al)</code>
-<code>📫 E-mail: [admin@kazakov-a.ru](mailto:admin@kazakov-a.ru)</code> 
+<code>📫 E-mail: [admin@kazakov-a.ru](mailto:admin@kazakov-a.ru)</code>
