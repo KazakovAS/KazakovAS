@@ -5,4 +5,4 @@
 
 [Дополнение к статье про font-weight](https://github.com/doka-guide/content/issues/2466)
 
-[Неточность в блоке "На практике" у заголовков](https://github.com/doka-guide/content/pull/5201)
+[Исправляет неточность в блоке "На практике" у заголовков, и добавляет новые советы](https://github.com/doka-guide/content/pull/5201)
