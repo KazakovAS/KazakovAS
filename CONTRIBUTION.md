@@ -4,3 +4,5 @@
 [Добавление уточнения про принцип работы `<br>`](https://github.com/doka-guide/content/pull/2512)
 
 [Дополнение к статье про font-weight](https://github.com/doka-guide/content/issues/2466)
+
+[Неточность в блоке "На практике" у заголовков](https://github.com/doka-guide/content/pull/5201)
