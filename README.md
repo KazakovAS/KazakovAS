@@ -3,7 +3,7 @@ I am a <code>Frontend-разработчик 👷</code>, code reviewer at Yande
 
 Recently, I worked in hr-tech, where I helped create a product for mass vacancy closing, there I was responsible for the layout of a dynamic template, based on which our projects were built. In total, approximately 250 projects were implemented for the largest companies in Russia (Ozon, Sber, Yandex, etc.). In my free time, [I contribute to open source](CONTRIBUTION.md).
 
-I would like to work on creating a design system, accessibility, internationalization, and CI/CD.
+I would like to work on creating a design system, accessibility, internationalization, and DevOps.
 
 Ready for cooperation 😉
 
