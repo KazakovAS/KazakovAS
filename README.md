@@ -1,9 +1,10 @@
 # Hi 👋, my name is Aleksey!
-I am a <code>Frontend-разработчик 👷</code>, code reviewer at Yandex.Practicum and I am also improving myself in mentorship there.
 
-Recently, I worked in hr-tech, where I helped create a product for mass vacancy closing, there I was responsible for the layout of a dynamic template, based on which our projects were built. In total, approximately 250 projects were implemented for the largest companies in Russia (Ozon, Sber, Yandex, etc.). In my free time, [I contribute to open source](CONTRIBUTION.md).
+I am a <code>Frontend-разработчик 👷</code>, Author, teacher and code reviewer at Yandex.Practicum. Before that, he worked in HR-tech, where he developed a dynamic template in Vue.js, on the basis of which projects were built to fill vacancies en masse. In total, approximately 250 projects were implemented for the largest companies in Russia: Ozon, Sber, Yandex, etc.
 
-I would like to work on creating a design system, accessibility, internationalization, and DevOps.
+Lately I have become interested in DevOps practices. In my free time, [I contribute to open source](CONTRIBUTION.md).
+
+I would be happy to work on design system creation, accessibility, internalization and DevOps.
 
 Ready for cooperation 😉
 
