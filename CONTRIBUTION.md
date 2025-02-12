@@ -6,3 +6,5 @@
 [Дополнение к статье про font-weight](https://github.com/doka-guide/content/issues/2466)
 
 [Исправляет неточность в блоке "На практике" у заголовков, и добавляет новые советы](https://github.com/doka-guide/content/pull/5201)
+
+[Добавляет статью про Выражения от контейнера](https://github.com/doka-guide/content/pull/5543#issuecomment-2647825124)
